@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//동작이 들어가면 MonoBehaviour 클래스를 상속받아야 합니다.
 public class Bullet : MonoBehaviour
 {
     public float speed = 8f;
